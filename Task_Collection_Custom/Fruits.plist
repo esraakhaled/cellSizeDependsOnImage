@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Photo</key>
+		<string>1</string>
+		<key>Name</key>
+		<string>banana</string>
+		<key>Kilo</key>
+		<string>1kg price</string>
+		<key>Price</key>
+		<string>$5.65</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>6</string>
+		<key>Name</key>
+		<string>strawberry</string>
+		<key>Kilo</key>
+		<string>1kg price</string>
+		<key>Price</key>
+		<string>$9.95</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>7</string>
+		<key>Name</key>
+		<string>strawberry</string>
+		<key>Kilo</key>
+		<string>1kg price</string>
+		<key>Price</key>
+		<string>$4.50</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>8</string>
+		<key>Name</key>
+		<string>apple</string>
+		<key>Kilo</key>
+		<string>1kg price</string>
+		<key>Price</key>
+		<string>$2.50</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>10</string>
+		<key>Name</key>
+		<string>pomegranate</string>
+		<key>Kilo</key>
+		<string>1kg price</string>
+		<key>Price</key>
+		<string>$9.50</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>1</string>
+		<key>Name</key>
+		<string>Mango</string>
+		<key>Kilo</key>
+		<string>1kg price</string>
+		<key>Price</key>
+		<string>$3.50</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>6</string>
+		<key>Name</key>
+		<string>blueberry</string>
+		<key>Kilo</key>
+		<string>1kg price</string>
+		<key>Price</key>
+		<string>$5.50</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>7</string>
+		<key>Name</key>
+		<string>palm</string>
+		<key>Kilo</key>
+		<string>1kg price</string>
+		<key>Price</key>
+		<string>$6.50</string>
+	</dict>
+</array>
+</plist>
